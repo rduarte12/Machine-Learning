@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+jupyterlab
+# Pacotes sem versão para instalar as versões mais recentes disponíveis.
+# Após a instalação você pode gerar um arquivo fixo com:
+#   venv\Scripts\python -m pip freeze > requirements-frozen.txt
+# e, se desejar, eu posso commitar esse arquivo para reprodução futura.
